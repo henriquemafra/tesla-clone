@@ -15,4 +15,72 @@
     height: 100%;
     object-fit: cover;
   }
-  
+
+  .featured-information {
+    width: inherit;
+    height: inherit;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 95px;
+    }
+
+.featured-information h1 {
+  font-size: 38px;
+  color: #fff;
+  font-weight: bold
+}
+.featured-information p {
+  font-size: 15px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.featured-button {
+  position: absolute;
+  bottom: 65px;
+  right: 5px;
+  left: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  }
+
+.featured-button button {
+
+  background-color: transparent;
+  border: 2px solid #fff;
+  border-radius: 3px;
+  font-size: 15px;
+  width: 230px;
+  color: #fff;
+  padding: 5px 55px 5px 55px;
+  cursor: pointer
+
+}
+@media screen and (max-width: 768px) {
+  .featured-button {
+    display: flex;
+    position: absolute;
+    bottom: 40px;
+    right: 5px;
+    left: 5px;
+    justify-content: center;
+    align-items: center;
+   
+    max-width: 100vw !important; /* Tornar o botão do tamanho da tela */
+  }
+
+  .featured-button button {
+    background-color: transparent;
+    border: 2px solid #fff;
+    border-radius: 3px;
+    font-size: 15px;
+    color: #fff;
+    width: 100% !important; /* Ocupar todo o espaço disponível no container (.featured-button) */
+    padding: 10px 140px; /* Ajustar o padding conforme necessário */
+    cursor: pointer;
+  }
+}
