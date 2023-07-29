@@ -4,11 +4,13 @@ Este é um projeto de clone website desenvolvido em ReactJS.
 
 ## Screenshots
 
-![Captura de Tela](https://raw.githubusercontent.com/henriquemafra/netflix-clone/main/screenshots/screenshot1.PNG)
+![Captura de Tela](https://github.com/henriquemafra/tesla-clone/blob/main/screenshots/captura1.PNG?raw=true)
+![Captura de Tela](https://github.com/henriquemafra/tesla-clone/blob/main/screenshots/captura2.PNG?raw=true)
+![Captura de Tela](https://github.com/henriquemafra/tesla-clone/blob/main/screenshots/captura3.PNG?raw=true)
 
 ## Preview
-Você pode visualizar uma versão deste projeto em funcionamento através deste link: [Netflix Clone](https://netflix-clone-git-main-henriquemafra.vercel.app/).
+Você pode visualizar uma versão deste projeto em funcionamento através deste link: [Tesla Clone](https://tesla-clone-kappa-silk.vercel.app/).
 
 ## Licença
 
-Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT).
+Este é um projeto com finalidade unicamente educativa, todos os direitos reservados a Tesla.
