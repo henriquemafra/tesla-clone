@@ -1,8 +1,14 @@
-# React + Vite
+## Tesla Website Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto de clone website desenvolvido em ReactJS.
 
-Currently, two official plugins are available:
+## Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Captura de Tela](https://raw.githubusercontent.com/henriquemafra/netflix-clone/main/screenshots/screenshot1.PNG)
+
+## Preview
+Você pode visualizar uma versão deste projeto em funcionamento através deste link: [Netflix Clone](https://netflix-clone-git-main-henriquemafra.vercel.app/).
+
+## Licença
+
+Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT).
