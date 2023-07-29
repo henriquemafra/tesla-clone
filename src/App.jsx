@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import './App.css'
 import FeaturedVideo from './components/FeaturedVideo/FeaturedVideo'
 import Header from './components/Header/Header'
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
   
@@ -9,6 +10,7 @@ function App() {
     <>
     <Header />
     <FeaturedVideo />
+    <Analytics />
     </>
   )
 }
